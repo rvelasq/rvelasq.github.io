@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+.obsidian
+_site
+.sass-cache
+.directory
+assets
+_drafts
+.ruby-version
+img/orig
+_posts/img
+_posts/template.md
